@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Machine Learning\\Projects\\Chatbot Med\\modelDataMed\\model_med.tflearn"
+all_model_checkpoint_paths: "D:\\Machine Learning\\Projects\\Chatbot Med\\modelDataMed\\model_med.tflearn"

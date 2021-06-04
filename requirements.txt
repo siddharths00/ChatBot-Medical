@@ -1,0 +1,7 @@
+numpy
+pandas
+tensorflow-cpu
+gradio
+pillow
+nltk
+tflearn
